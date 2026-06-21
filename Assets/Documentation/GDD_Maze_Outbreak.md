@@ -1,5 +1,6 @@
 # Maze Outbreak - Game Design Document
-
+## Nome dos integrantes
+Lorran ney Silva dos Santos e Israel Bassani
 ## Nome do jogo
 Maze Outbreak
 
@@ -57,3 +58,5 @@ Ser encostado por qualquer zumbi em qualquer fase.
 ## Storyboard textual das fases
 1. O jogador entra no Labirinto Abandonado, com corredores simples e luz ambiente moderada. A prioridade e aprender a movimentacao e escapar dos primeiros zumbis lentos.
 2. O Labirinto Subterraneo aumenta a escala e reduz a luz. O jogador precisa usar a lanterna com mais frequencia e escolher rotas com cuidado.
+
+
